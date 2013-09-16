@@ -2079,7 +2079,7 @@ msgstr "Das wars. Du kannst dann den Server entweder mit \n<code>start.py</code>
 msgid ""
 "If you pull updates and there were database changes, you\n"
 "can apply them with a simple <code>python manage.py migrate --all</code>."
-msgstr "Wenn beim Pullen Datenbankänderungen mitkamne, kannst du sie mit \n<code>python manage.py migrate --all</code> einfach anwenden."
+msgstr "Wenn beim Pullen Datenbankänderungen mitkamen, kannst du sie mit \n<code>python manage.py migrate --all</code> einfach anwenden."
 
 #: software/templates/code.html:152 software/templates/code.html.py:230
 msgid "How to contribute code"
